@@ -1,0 +1,5 @@
+{
+  "name": "POSIX Shell Simulator",
+  "description": "A React-based web application that simulates a UNIX-like POSIX shell, complete with a 'man' command to browse manual pages derived from classic UNIX documentation.",
+  "requestFramePermissions": []
+}
